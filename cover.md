@@ -4,7 +4,7 @@ Contacts application is based on MEAN stack and provides an good starter to buil
 
 ### Architecture
 
-![architecture](_attachments/arch.png)
+![architecture](_images/arch.png)
 
 
 This stack consists of PostgreSQL, Express, React and Node.js. Combining these technologies, one can build a full-stack web application with CRUD operations. 
